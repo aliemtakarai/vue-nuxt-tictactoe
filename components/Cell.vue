@@ -13,8 +13,8 @@
 </script>
 <style>
   .cell {
-    width: 64px;
-    height: 64px;
+    width: 100px;
+    height: 100px;
     border: 2px solid rgb(75,75,75);
     font-size: 42px;
     display: flex;

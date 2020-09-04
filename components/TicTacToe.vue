@@ -93,7 +93,7 @@
   .tictactoe-board {
     display: flex;
     flex-wrap: wrap;
-    width: 204px;
-    height: 204px;
+    width: 408px;
+    height: 408px;
   }
 </style>

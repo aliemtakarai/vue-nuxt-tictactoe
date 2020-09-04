@@ -1,7 +1,9 @@
 <template>
-  <div class="container">
-    <div>
-      <TicTacToe />
+  <div>
+    <div class="container">
+      <div>
+        <TicTacToe />
+      </div>
     </div>
   </div>
 </template>
@@ -19,7 +21,7 @@ export default {
 <style>
 .container {
   margin: 0 auto;
-  min-height: 100vh;
+  min-height: 75vh;
   display: flex;
   justify-content: center;
   align-items: center;
